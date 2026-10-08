@@ -1,0 +1,6 @@
+{
+  "name": "AppLauncher Pro",
+  "description": "Dynamic App Launcher with Developer Customizer, In-App Translation Studio, and Live UI Theming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
